@@ -1,0 +1,1395 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link type="text/css" rel="stylesheet" href="css/css.css">
+    <link type="text/css" rel="stylesheet" href="css/iss.css">
+    <link type="text/css" rel="stylesheet" href="css/easyui.css">
+    <script type="text/javascript" src="Scripts/jquery-1.11.1.js"></script>
+    <script type="text/javascript" src="Scripts/jquery.easyui.min.js"></script>
+    <script type="text/javascript" src="Scripts/source/iss.js"></script>
+    <style>
+    pre {
+        overflow: hidden;
+    }
+    .iss_tabls_child {
+        /* overflow: hidden; */
+    }
+    .iss_tabls_child .left {
+        float: left;
+        width: 600px
+    }
+    .iss_tabls_child .right {
+        float: none;
+        margin-left: 610px
+    }
+    .more{ position: absolute; top:-20px;right:-20px;}
+    </style>
+</head>
+
+<body>
+
+    <div class="wap">
+        <div class="content">
+            <h1 class="Center red">软通前端iss框架（0.1版）</h1>
+            <div class="box">
+                <div class="iss-tabs">
+                    <div title="软通前端框架说明书">
+                        <h3>页面引入css及js</h3>
+                        <pre>
+                   &lt;link type="text/css" rel="stylesheet" href="css/css.css"&gt; <span class="red">-------------------------------------TOPK通用css，可不加载自己针对项目重写</span>
+                   &lt;link type="text/css" rel="stylesheet" href="css/iss.css"&gt; <span class="red">-------------------------------------控件必须css</span>
+                   &lt;script type="text/javascript" src="Scripts/jquery-1.11.1.js"&gt;&lt;/script&gt; <span class="red">------------------------基于jquery开发</span>
+                   &lt;script type="text/javascript" src="Scripts/source/iss.js">&lt;/script&gt;<span class="red">----------------------------框架必须js</span>
+                   <span class="gay">(请关注iss.js变量： ISS_SROUCE_URL = "Scripts/source/";  //页面引入js资源地址配置，可更换)</span>
+                   <span class="gay">================================================================================================================</span>
+                   <span class="gay">如需esayui单独引入</span>
+                   <span class="gay">&lt;script type="text/javascript" src="Scripts/jquery.easyui.min.js"&gt;&lt;/script&gt;&lt;/p&gt;</span>
+                   <span class="gay">&lt;link type="text/css" rel="stylesheet" href="css/easyui.css"&lt;/p&gt;</span>
+                   </pre>
+                        <code>
+
+                        </code>
+
+                    </div>
+
+                </div>
+                <div class="iss-tabs mgT10">
+                    <div title="<b>表单验证控件</b>  iss.validate(<span class='gay'>object</span>)" id="validate_demo">
+                    <a class="more" href='http://www.w3cschool.cc/jquery/jquery-plugin-validate.html'>具体参数参照validate控件网址http://www.w3cschool.cc/jquery/jquery-plugin-validate.html</a>
+                        <form action="" method="get" accept-charset="utf-8" id="form">
+                            <table class="iss-form" width="100%">
+                                <tr>
+                                    <th width="100">
+                                        <span class="red">*</span>时间:
+                                    </th>
+                                    <td>
+                                        <input class="ipt120 easyui-datebox" name="name" type="text">
+                                        <input type="button" value="验证" class="btn90" id="formbtn" />
+                                    </td>
+                                </tr>
+                            </table>
+                        </form>
+
+
+                    </div>
+                    <div title="HTML代码" id="validate_html">
+                        <pre>
+                      <!-- html内容 -->
+
+
+					</pre>
+
+                    </div>
+                    <div title="JS代码">
+                        <div class="left">
+                            <pre>
+iss.validate({
+"#form":{<span class='gay'>--------------------------------需要验证form表单ID或CLASS</span>
+<span class='red'>rules:{</span><span class='gay'>-------------------验证，参数看右侧表格</span>
+	userName:{
+         required:true, <span class='gay'>----------标签name属性为‘userName’的验证格式</span>
+        自定义规则:function(value){ if(value==1){ return true}   } <span class='gay'>----------自定义消息</span>
+     }
+<span class='red'>},</span>
+<span class='yellow'>messages:{</span><span class='gay'>---------------消息，对应rules相同对象自定义提示消息</span>
+	userName:{
+        required:"标题不能为空", <span class='gay'>----------标签name属性为‘userName’的自定义消息</span>
+        自定义规则:"自定义规则提示" 
+        }
+<span class='yellow'>}</span>
+});
+
+$("#formbtn").click(function(){、
+
+$("#form").submit();
+});
+						</pre>
+                        </div>
+                        <div class="right">
+
+                            <table class="iss-form iss-tableodd" width="100%">
+                                <caption>rules参数详解：自定义验证,常用验证请看 //常用参数简介</caption>
+                                <thead>
+                                    <tr>
+                                    <th width="160">参数</th><th width="80">默认值</th><th>介绍</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <th>required:</th>
+                                        <td>true</td><td>必须填写</td>
+                                    </tr>
+
+                                    <tr>
+                                        <th>maxlength:</th>
+                                        <td>5</td><td>最大长度</td>
+                                    </tr>
+                                    <tr>
+                                        <th>minlength:</th>
+                                        <td>2</td><td>最小长度</td>
+                                    </tr>
+                                    <tr>
+                                        <th>email:</th>
+                                        <td>true</td><td>email</td>
+                                    </tr>
+                                    <tr>
+                                        <th>url:</th>
+                                        <td>true</td><td>url</td>
+                                    </tr>
+                                    <tr>
+                                        <th>date:</th>
+                                        <td>true</td><td>日期</td>
+                                    </tr>
+                                    <tr>
+                                        <th>number:</th>
+                                        <td>true</td><td>number</td>
+                                    </tr>
+                                    <tr>
+                                        <th>digits:</th>
+                                        <td>true</td><td>整数</td>
+                                    </tr>
+                                    <tr>
+                                        <th>creditcard:</th>
+                                        <td></td><td>信用卡号</td>
+                                    </tr>
+                                    <tr>
+                                        <th>equalTo:</th>
+                                        <td>"#field"</td><td>与field相同</td>
+                                    </tr>
+                                    <tr>
+                                        <th>accept:</th>
+                                        <td>"pdf"</td><td>后缀名</td>
+                                    </tr>
+                                    <tr>
+                                        <th>rangelength:</th>
+                                        <td>[5,10]</td><td>输入值必须介于 5 和 10 之间</td>
+                                    </tr>
+                                    <tr>
+                                        <th>max:</th>
+                                        <td>5</td><td>输入值不能大于 5</td>
+                                    </tr>
+                                    <tr>
+                                        <th>min:</th>
+                                        <td>3 </td><td>输入值不能小于 3</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+
+
+                        </div>
+                        <br clear="both" />
+                    </div>
+                </div>
+                <script type="text/javascript">
+                iss.validate({
+                    "#form": {
+                        rules: {
+                            name: {
+                                required: true
+                            
+                            }
+
+                        },
+                        messages: {
+                            name: {
+                                required: "标题不能为空"
+                               
+                            }
+                        }
+                    }
+                });
+                $("#formbtn").click(function() {
+                    $("#form").submit();
+
+                });
+                $("#validate_html pre").text($("#validate_demo").html());
+               
+                </script>
+                <!---------------------iss-upload()---------------------------->
+    
+                <div class="iss-tabs mgT10">
+                    <div title="<b>文件上传</b> iss.upload(<span class='gay'>object</span>)">
+                    <a class="more" href='http://www.uploadify.com/'>具体参数参照uploadify控件网址http://www.uploadify.com/</a>
+                        <table class="iss-form" width="100%">
+                            <tr>
+                            <th width="100">上传:</th>
+                            <td>
+                                <div id='J_upload'>
+                                    
+                                </div>
+                            </td>
+                            <td width="100"><input type="button" class='ipt90 J_upoadbtn' name="" value="上传" /></td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div title="JS代码">
+                        <div class="left">
+                           <pre>
+                            iss.upload({
+                                uploader: '上传地址'
+                                
+                            });
+                        </pre> 
+                        </div>
+                        <div class="right">
+                            <table class='iss-form' width="100%">
+                                <thead>
+                                    <tr>
+                                    <th width="100">参数</th><th width="100">默认值</th><th>说明</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                    <th>multi</th>
+                                    <td>true</td>
+                                    <td>上传多个文件，如果只上传一个文件此值为false</td>
+                                    </tr>
+                                    <tr>
+                                    <th>queueSizeLimit </th>
+                                    <td>999</td>
+                                    <td>上传多个文件，最大个数</td>
+                                    </tr>
+                                    <tr>
+                                    <th>auto</th>
+                                    <td>true</td>
+                                    <td>选择完成就上传，为false则点击上传才开始上传</td>
+                                    </tr>
+                                     <tr>
+                                    <th>fileDesc</th>
+                                    <td>*.*</td>
+                                    <td>上传类型说明</td>
+                                    </tr>
+                                     <tr>
+                                    <th>fileExt</th>
+                                    <td>*.*</td>
+                                    <td>上传类型</td>
+                                    </tr>
+                                     <tr>
+                                    <th>sizeLimit </th>
+                                    <td></td>
+                                    <td>上传大小限制</td>
+                                    </tr>
+                                     <tr>
+                                    <th>simUploadLimit </th>
+                                    <td>1</td>
+                                    <td>允许同时上传的个数 </td>
+                                    </tr>
+                                    <tr>
+                                    <th>onInit </th>
+                                    <td></td>
+                                    <td>做一些初始化的工作 </td>
+                                    </tr>
+                                     <tr>
+                                    <th>onSelect  </th>
+                                    <td>选择事件</td>
+                                    <td>参数1=event，参数2=queueID，参数3=name、size、creationDate、modificationDate、type 5个属性</td>
+                                    
+                                    </tr>
+                                    <th>onComplete  </th>
+                                    <td>完成事件</td>
+                                    <td>参数1=剩余没有上传完成的文件的个数，参数2=文件上传的平均速率 kb/s</td>
+                                    
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                       
+                    </div>
+                </div>
+                  <script>
+                        $(".J_upoadbtn").click(function(){
+                            iss.upload({
+                                 /*'url':'http://www.hao123.com',*/
+                                /* 'debug':true,*/
+                                 'fileTypeDesc':['execl格式','test2'],
+                                  'fileTypeExts':['*.xml','*.jpg']
+                            });
+                        })
+                    </script>
+                    <div class="iss-tabs mgT10">
+                        <div title="弹出窗口 iss.dialog.alert(<span class='gay'>object</span>)">
+                          <div id="J_alert">
+                               <input type="button" name="" value="极简" class='ipt90 J_1'>
+                               <input type="button" name="" value="极简提示弹出" class='ipt120 J_2'>
+                               <input type="button" name="" value="标准弹出" class='ipt90 J_3'>
+                               <input type="button" name="" value="iframe弹出" class='ipt90 J_4'>
+                               <input type="button" name="" value="Error提示" class='ipt120 J_5'>
+                               <input type="button" name="" value="success提示" class='ipt120 J_6'>
+                               <input type="button" name="" value="warning提示" class='ipt120 J_7'>
+                               <input type="button" name="" value="confirm提示" class='ipt120 J_8'>
+                          </div>
+                          
+                        </div>
+                        <div title="JS代码">
+                            <div class="box clr">
+                                <div class="left">
+                                  <code>
+                                  1、   iss.dialog.alert("<b class='rad'>极简弹出</b>");<br/>
+                                  2、   iss.dialog.alert(["<b class='rad'>极简提示弹出</b>","提示内容" ])<br/>
+                                    3、   iss.dialog.alert({<br/>
+                                            <p style="padding-left:30px">
+                                                "title":"<b class='rad'>标准弹出</b>",<br/>
+                                            "content":"xxx",<br/>
+                                            width:600,<br/>
+                                            height:160<br/>
+                                            
+                                           })</p>
+                                    4、   iss.dialog.alert({<br/>
+                                            <p style="padding-left:30px">
+                                                "title":"<b class='rad'>iframe弹出</b>",<br/>
+                                            "url":"about:blank",<br/>
+                                            "width":800,<br/>
+                                            "height":400<br/>
+                                        });</p>
+                                        5、  iss.dialog.error("<b class='rad'>error提示</b>")<br/>
+                                        6、  iss.dialog.success("<b class='rad'>success提示</b>")<br/>
+                                        7、  iss.dialog.warning("<b class='rad'>warning提示</b>")<br/>
+                                        8、  iss.dialog.confirm("<b class='rad'>confirm提示</b>",function(){确定,可以为空},function(){取消，可以为空})<br/>
+                                           
+                                        9、  iss.dialog.alert({
+                                         <p style="padding-left:30px">
+                                                url:"http://ww.hao123.com",<br />
+                                                ok:false,<br />
+                                                button:[{<br />
+                                                    id:"iframe弹出",<br />
+                                                    value:"iframe弹出",<br />
+                                                    callback:function(){<br />
+                                                        this.close()}<br />
+                                                        }
+                                                        
+                                                        ]})
+                                                    </p>
+                                  </code>
+                                </div>
+                                <div class="right">
+                                    <table class='iss-form iss-tableodd' width="100%">
+                                        <caption>弹窗参数</caption>
+                                        <thead>
+                                            <tr>
+                                                <th width="80">参数</th>
+                                                <th width="120">默认值</th>
+                                                <th>描述</th>
+                                            
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th>title</th>
+                                                <td>string</td>
+                                                <td>"标题"</td>
+                                            </tr>
+                                             <tr>
+                                                <th>content</th>
+                                                <td>string或Array</td>
+                                                <td>"内容"或["副标题","内容"],不应与url参数同时出现</td>
+                                            </tr>
+                                              <tr>
+                                                <th>url</th>
+                                                <td>string</td>
+                                                <td>打开一个内嵌iframe页面</td>
+                                            </tr>
+                                            <tr>
+                                                <th>width</th>
+                                                <td>int</td>
+                                                <td>宽度 800</td>
+                                            </tr>
+                                             <tr>
+                                                <th>height</th>
+                                                <td>int</td>
+                                                <td>高度 400</td>
+                                            </tr>
+                                               <tr>
+                                                <th>ok</th>
+                                                <td>Function或true</td>
+                                                <td>点击ok的时候执行函数</td>
+                                            </tr>
+                                            </tr>
+                                               <tr>
+                                                <th>okValue</th>
+                                                <td>string</td>
+                                                <td>ok按钮显示名称</td>
+                                            </tr>
+                                            </tr>
+                                               <tr>
+                                                <th>cancel</th>
+                                                <td>Function或true</td>
+                                                <td>点击cancel的时候执行函数</td>
+                                            </tr>
+                                            </tr>
+                                               <tr>
+                                                <th>cancelValue</th>
+                                                <td>string</td>
+                                                <td>cancel按钮显示名称</td>
+                                            </tr>
+                                             <tr>
+                                                <th>button</th>
+                                                <td>json</td>
+                                                <td>[{id:"ce",value:"你好",disabled:“是否disable,值为true或false”,focus:“是否为焦点值为true或false”}]
+                              </td>           
+                                            </tr>
+                                            <tr>
+                                            <th colspan="3" style="text-align:left">
+                                                
+                                            button参数</th>
+                                            </tr>
+                                             <tr>
+                                                <th>id</th>
+                                                <td>string</td>
+                                                <td>按钮ID</td>           
+                                            </tr>
+                                            <tr>
+                                                <th>value</th>
+                                                <td>string</td>
+                                                <td>button名称</td>           
+                                            </tr>
+                                             <tr>
+                                                <th>callback</th>
+                                                <td>Funtion</td>
+                                                <td>点击按钮后执行函数</td>           
+                                            </tr>
+                                              <tr>
+                                                <th>go</th>
+                                                <td>Funtion</td>
+                                                <td>页面弹出后执行的函数</td>           
+                                            </tr>
+                                            <tr>
+                                                <th>close</th>
+                                                <td>Funtion</td>
+                                                <td>在打开位置iss.dialog.alert({ok:function(){ <span class='red'>iss.data("自定义名称",this)</span>}}),<br/>在外部任意位置关闭<span class='red'>iss.data("自定义名称").close();</span>,<br />关闭所有打开窗口:<span class='red'>iss.dialog.close()</span></td>           
+                                            </tr>
+
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <script>
+                        document.getElementById("J_alert").onclick = function(ev){
+                            tar = ev? ev.target:window.event.srcElement;
+
+                            if(tar.className.indexOf("J_1")>-1)
+                            {
+                                iss.dialog.alert("极简弹出-内容为:iss.dialog.alert('XXXXXX')");
+                            }else if(tar.className.indexOf("J_2")>-1){
+                                iss.dialog.alert(["极简提示弹出-内容为:","iss.dialog.alert( [ '副标题','提示内容' ] ) "])
+                            }else if(tar.className.indexOf("J_3")>-1){
+                                iss.dialog.alert({"title":"标准弹出-内容为：","content":"iss.dialog.alert({title:'标题',conent:'内容部分可以是HTML',width:600,height:160})",width:600,height:160})
+                            }else if(tar.className.indexOf("J_4")>-1){
+                               iss.dialog.alert({'title':'iframe弹出: iss.dialog.alert({title:iframe弹出:,url:http://127.0.0.1,width:600,height:400})','url':'about:blank','width':800,'height':400});
+
+                                  
+                            }else if(tar.className.indexOf("J_5")>-1){
+                               iss.dialog.error("error提示:iss.dialog.error('xxx')")
+                            }else if(tar.className.indexOf("J_6")>-1){
+                               iss.dialog.success("success提示:iss.dialog.success('xxx')")
+                            }else if(tar.className.indexOf("J_7")>-1){
+                               iss.dialog.warning("warning提示:iss.dialog.warning('xxx')")
+                            }else if(tar.className.indexOf("J_8")>-1){
+                               iss.dialog.confirm("confirm提示:iss.dialog.confirm('xxx',function(){确定},function(){取消}")
+                            }
+
+                        }
+
+
+                       //  alert(document.body)
+                    </script>
+                 <div class="iss-tabs mgT10">
+                     <div title="esayui控件-表格生成">
+                     <a class="more" href='http://api.btboys.com/easyui/'>http://api.btboys.com/easyui/</a>
+                        <pre>
+            $('#gridUser').datagrid({
+                width: "auto",-------------------------------------------是否自动适应宽度
+                height: 385,---------------------------------------------高度
+                iconCls: 'icon-save',------------------------------------icon可选填
+                fitColumns: true,----------------------------------------真正的自动展开/收缩列的大小，以适应网格的宽度，防止水平滚动。
+                striped: true,-------------------------------------------是否显示斑马线效果
+                singleSelect: true,--------------------------------------如果为true，则只允许选择一行
+                rownumbers: true, //-------------------------------------是否加行号
+                pagination: true, //-------------------------------------是否显式分页
+                pageSize: 10, //-----------------------------------------页容量，必须和pageList对应起来，否则会报错
+                pageNumber: 1, //----------------------------------------默认显示第几页
+                pageList: [10, 20, 50],--------------------------------//分页中下拉选项的数值
+                queryParams: { "queryParams": "" },----------------------在请求远程数据的时候发送额外的参数
+                data:[{}],//页面数据-------------------------------------页面数据
+                columns: [[  //------------------------------------------页面行 field对应data数据中的对象名称
+                    { title: '员工姓名', field: 'EmpName', width: 120, align: 'center', resizable: false },
+                    { title: '账号', field: 'UserName', width: 120, align: 'center', resizable: false },
+                    {
+                        title: '性别', field: 'Gender', width: 90, align: 'center', resizable: false,
+                        formatter: function (data) {
+                            return data ? "男" : "女";
+                        }
+                    },
+                    {
+                        title: '邮箱地址', field: 'EMail', width: 180, align: 'center', resizable: false,
+                    },
+                    { title: '手机号', field: 'CellPhoneNo', width: 150, align: 'center', resizable: false },
+                    {
+                        title: '首页', field: 'DefaultIndex', width: 120, align: 'center', resizable: false,
+                        formatter: function (data) {
+                            if (data == null || data == "")
+                                return "";
+                            else
+                                return (data == "/Home/LeaderIndex") ? "领导首页" : "普通首页";
+                        }
+                    },
+                    { title: '启用', field: 'IsEnable', width: 120, align: 'center', formatter: imgcheckbox, resizable: false },
+                    { title: 'ID', field: 'ID', hidden: true },
+                ]]
+            });
+                        </pre>
+                     </div>
+                     <div title="参数简介">
+                        <TABLE class="iss-form" width="100%">
+  <TBODY>
+  <TR>
+    <TH><STRONG>属性名</STRONG></TH>
+    <TH><STRONG>属性值类型</STRONG></TH>
+    <TH><STRONG>描述</STRONG></TH>
+    <TH><STRONG>默认值</STRONG></TH></TR>
+  <TR>
+    <Th>columns</Th>
+    <TD>array</TD>
+    <TD>DataGrid列配置对象，详见列属性说明中更多的细节。</TD>
+    <TD>undefined</TD></TR>
+  <TR>
+    <TH>frozenColumns</TH>
+    <TD>array</TD>
+    <TD>同列属性，但是这些列将会被冻结在左侧。</TD>
+    <TD>undefined</TD></TR>
+  <TR>
+    <TH>fitColumns</TH>
+    <TD>boolean</TD>
+    <TD><SPAN lang=zh-CN id=result_box class=short_text c="4" a="undefined" 
+      ud="null" closure_uid_753530015="123"><SPAN 
+      closure_uid_753530015="276">真正的</SPAN><SPAN 
+      closure_uid_753530015="277">自动展开</SPAN><SPAN 
+      closure_uid_753530015="278">/</SPAN><SPAN 
+      closure_uid_753530015="279">收缩</SPAN><SPAN 
+      closure_uid_753530015="280">列</SPAN><SPAN 
+      closure_uid_753530015="281">的大小</SPAN><SPAN 
+      closure_uid_753530015="282">，以适应</SPAN><SPAN 
+      closure_uid_753530015="283">网格的宽度</SPAN><SPAN 
+      closure_uid_753530015="284">，防止</SPAN><SPAN 
+      closure_uid_753530015="285">水平</SPAN><SPAN 
+      closure_uid_753530015="286">滚动</SPAN><SPAN 
+      closure_uid_753530015="287">。</SPAN></SPAN></TD>
+    <TD>false</TD></TR>
+  <TR>
+    <TH>resizeHandle</TH>
+    <TD>string</TD>
+    <TD>
+      <P>调整列的位置，可用的值有：'left','right','both'。在使用'right'的时候<SPAN 
+      closure_uid_753530015="349">用户</SPAN><SPAN 
+      closure_uid_753530015="350">可以</SPAN><SPAN 
+      closure_uid_753530015="352">通过</SPAN><SPAN 
+      closure_uid_753530015="353">拖动</SPAN><SPAN 
+      closure_uid_753530015="354">右侧边缘</SPAN><SPAN 
+      closure_uid_753530015="355">的</SPAN><SPAN 
+      closure_uid_753530015="356">列标题调整<SPAN 
+      closure_uid_753530015="351">列，等等。<STRONG><FONT 
+      color=#ff0000>（该属性自1.3.2版开始可用）</FONT></STRONG></SPAN></SPAN></P></TD>
+    <TD>right</TD></TR>
+  <TR>
+    <TH>autoRowHeight</TH>
+    <TD>boolean</TD>
+    <TD><SPAN lang=zh-CN id=result_box class=short_text c="4" a="undefined" 
+      ud="null" closure_uid_753530015="123"><SPAN 
+      closure_uid_753530015="384">定义</SPAN><SPAN 
+      closure_uid_753530015="385">设置行的高度</SPAN><SPAN 
+      closure_uid_753530015="386">，</SPAN><SPAN 
+      closure_uid_753530015="387">根据</SPAN><SPAN 
+      closure_uid_753530015="388">该行</SPAN><SPAN 
+      closure_uid_753530015="389">的内容</SPAN><SPAN 
+      closure_uid_753530015="390">。</SPAN><SPAN 
+      closure_uid_753530015="391">设置为</SPAN><SPAN 
+      closure_uid_753530015="392">false可以提高</SPAN><SPAN 
+      closure_uid_753530015="393">负载性能</SPAN><SPAN 
+      closure_uid_753530015="394">。</SPAN></SPAN></TD>
+    <TD>true</TD></TR>
+  <TR>
+    <TH>toolbar</TH>
+    <TD>array,selector</TD>
+    <TD>顶部工具栏的DataGrid面板。可能的值：<BR>1) 
+      一个数组，每个工具属性都和linkbutton一样。<BR>2)&nbsp;选择器指定的工具栏。 
+      <P>在&lt;div&gt;标签上定义工具栏： 
+      <P><PRE>$('#dg').datagrid({
+    toolbar: '#tb'
+});
+&lt;div id="tb"&gt;
+&lt;a href="#" class="easyui-linkbutton" data-options="iconCls:'icon-edit',plain:true"/a&gt;
+&lt;a href="#" class="easyui-linkbutton" data-options="iconCls:'icon-help',plain:true"/a&gt;
+&lt;/div&gt;
+</PRE>
+      <P>通过数组定义工具栏：</P><PRE>$('#dg').datagrid({
+    toolbar: [{
+        iconCls: 'icon-edit',
+        handler: function(){alert('编辑按钮')}
+    },'-',{
+        iconCls: 'icon-help',
+        handler: function(){alert('帮助按钮')}
+    }]
+});
+</PRE></TD>
+    <TD>null</TD></TR>
+  <TR>
+    <TH>striped</TH>
+    <TD>boolean</TD>
+    <TD>是否显示斑马线效果。</TD>
+    <TD>false</TD></TR>
+  <TR>
+    <TH>method</TH>
+    <TD>string</TD>
+    <TD><SPAN lang=zh-CN id=result_box class=short_text c="4" a="undefined" 
+      ud="null" closure_uid_753530015="123"><SPAN 
+      closure_uid_753530015="593">该方法</SPAN><SPAN 
+      closure_uid_753530015="594">类型</SPAN><SPAN 
+      closure_uid_753530015="595">请求</SPAN><SPAN 
+      closure_uid_753530015="596">远程数据。</SPAN></SPAN></TD>
+    <TD>post</TD></TR>
+  <TR>
+    <TH>nowrap</TH>
+    <TD>boolean</TD>
+    <TD>如果为true，则在同一行中显示数据。设置为true可以提高加载性能。</TD>
+    <TD>true</TD></TR>
+  <TR>
+    <TH>idField</TH>
+    <TD>string</TD>
+    <TD>指明哪一个字段是标识字段。</TD>
+    <TD>null</TD></TR>
+  <TR>
+    <TH>url</TH>
+    <TD>string</TD>
+    <TD>一个URL从远程站点请求数据。</TD>
+    <TD>null</TD></TR>
+  <TR>
+    <TH>data</TH>
+    <TD>array,object</TD>
+    <TD>数据加载<STRONG><FONT color=#ff0000>（该属性自1.3.2版开始可用）</FONT></STRONG> 
+      <P>代码示例：</P><PRE>$('#dg').datagrid({
+    data: [
+        {f1:'value11', f2:'value12'},
+        {f1:'value21', f2:'value22'}
+    ]
+});
+</PRE></TD>
+    <TD>null</TD></TR>
+  <TR>
+    <TH>loadMsg</TH>
+    <TD>string</TD>
+    <TD>在从远程站点加载数据的时候显示提示消息。</TD>
+    <TD>Processing, please wait …</TD></TR>
+  <TR>
+    <TH>pagination</TH>
+    <TD>boolean</TD>
+    <TD>如果为true，则在DataGrid控件底部显示分页工具栏。</TD>
+    <TD>false</TD></TR>
+  <TR>
+    <TH>rownumbers</TH>
+    <TD>boolean</TD>
+    <TD>如果为true，则显示一个行号列。</TD>
+    <TD>false</TD></TR>
+  <TR>
+    <TH>singleSelect</TH>
+    <TD>boolean</TD>
+    <TD>如果为true，则只允许选择一行。</TD>
+    <TD>false</TD></TR>
+  <TR>
+    <TH>ctrlSelect</TH>
+    <TD>boolean</TD>
+    <TD>在启用多行选择的时候允许使用Ctrl键+鼠标点击的方式进行多选操作。<STRONG><FONT 
+      color=#ff0000>（该属性自1.3.6版开始可用）</FONT></STRONG></TD>
+    <TD>false</TD></TR>
+  <TR>
+    <TH>checkOnSelect</TH>
+    <TD>boolean</TD>
+    <TD>如果为true，当用户点击行的时候该复选框就会被选中或取消选中。<BR>如果为false，当用户仅在点击该复选框的时候才会呗选中或取消。<BR><STRONG><FONT 
+      color=#ff0000>（该属性自1.3版开始可用）</FONT></STRONG></TD>
+    <TD>true</TD></TR>
+  <TR>
+    <TH>selectOnCheck</TH>
+    <TD>boolean</TD>
+    <TD>
+      <P>如果为true，单击复选框将永远选择行。<BR>如果为false，选择行将不选中复选框。<BR><STRONG><FONT 
+      color=#ff0000>（该属性自1.3版开始可用）</FONT></STRONG></P></TD>
+    <TD>true</TD></TR>
+  <TR>
+    <TH>pagePosition</TH>
+    <TD>string</TD>
+    <TD>定义分页工具栏的位置。可用的值有：'top','bottom','both'。<BR><STRONG><FONT 
+      color=#ff0000>（该属性自1.3版开始可用）</FONT></STRONG></TD>
+    <TD>bottom</TD></TR>
+  <TR>
+    <TH>pageNumber</TH>
+    <TD>number</TD>
+    <TD>在设置分页属性的时候初始化页码。</TD>
+    <TD>1</TD></TR>
+  <TR>
+    <TH>pageSize</TH>
+    <TD>number</TD>
+    <TD>在设置分页属性的时候初始化页面大小。</TD>
+    <TD>10</TD></TR>
+  <TR>
+    <TH>pageList</TH>
+    <TD>array</TD>
+    <TD>在设置分页属性的时候 初始化页面<!--WizRtf2Html Charset=134  --><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: '宋体'; BACKGROUND-COLOR: black"><SPAN 
+      style="BACKGROUND-COLOR: window">大小选择列表。</SPAN></SPAN></TD>
+    <TD>[10,20,30,40,50]</TD></TR>
+  <TR>
+    <TH>queryParams</TH>
+    <TD>object</TD>
+    <TD>在请求远程数据的时候发送额外的参数。 
+      <P>代码示例：</P><PRE>$('#dg').datagrid({
+    queryParams: {
+        name: 'easyui',
+        subject: 'datagrid'
+    }
+});
+</PRE></TD>
+    <TD>{}</TD></TR>
+  <TR>
+    <TH>sortName</TH>
+    <TD>string</TD>
+    <TD>定义哪些列可以进行排序。</TD>
+    <TD>null</TD></TR>
+  <TR>
+    <TH>sortOrder</TH>
+    <TD>string</TD>
+    <TD>定义列的排序顺序，只能是'asc'或'desc'。</TD>
+    <TD>asc</TD></TR>
+  <TR>
+    <TH>multiSort</TH>
+    <TD>boolean</TD>
+    <TD>定义是否允许多列排序。<STRONG><FONT 
+    color=#ff0000>（该属性自1.3.4版开始可用）</FONT></STRONG></TD>
+    <TD>false</TD></TR>
+  <TR>
+    <TH>remoteSort</TH>
+    <TD>boolean</TD>
+    <TD>定义从服务器对数据进行排序。</TD>
+    <TD>true</TD></TR>
+  <TR>
+    <TH>showHeader</TH>
+    <TD>boolean</TD>
+    <TD>定义是否显示行头。</TD>
+    <TD>true</TD></TR>
+  <TR>
+    <TH>showFooter</TH>
+    <TD>boolean</TD>
+    <TD>定义是否显示行脚。</TD>
+    <TD>false</TD></TR>
+  <TR>
+    <TH>scrollbarSize</TH>
+    <TD>number</TD>
+    <TD>滚动条的宽度(当滚动条是垂直的时候)或高度(当滚动条是水平的时候)。</TD>
+    <TD>18</TD></TR>
+  <TR>
+    <TH>rowStyler</TH>
+    <TD>function</TD>
+    <TD>返回样式如'background:red'。带2个参数的函数：<BR>rowIndex：该行索引从0开始<BR>rowData：与此相对应的记录行。 
+
+      <P>代码示例：</P><PRE>$('#dg').datagrid({
+    rowStyler: function(index,row){
+        if (row.listprice&gt;80){
+            return 'background-color:#6293BB;color:#fff;';
+        }
+    }
+});</PRE><PRE><FONT color=#ff0000><STRONG>译者注（1.3.4新增方式）：</STRONG></FONT><BR><BR><PRE>$('#dg').datagrid({
+    rowStyler: function(index,row){
+        if (row.listprice&gt;80){
+            return 'rowStyle';&nbsp;&nbsp;&nbsp;&nbsp;// rowStyle是一个已经定义了的ClassName(类名)
+        }
+    }
+});
+</PRE></PRE></TD>
+    <TD></TD></TR>
+  <TR>
+    <TH>loader</TH>
+    <TD>function</TD>
+    <TD>定义如何从远程服务器加载数据。返回false可以放弃本次请求动作。该函数接受以下参数：<BR>param：参数对象传递给远程服务器。<BR>success(data)：当检索数据成功的时候会调用该回调函数。<BR>error()：当检索数据失败的时候会调用该回调函数。</TD>
+    <TD>json loader</TD></TR>
+  <TR>
+    <TH>loadFilter</TH>
+    <TD>function</TD>
+    <TD>返回过滤数据显示。该函数带一个参数'data'用来指向源数据（即：获取的数据源，比如Json对象）。您可以改变源数据的标准数据格式。这个函数必须返回包含'total'和'rows'属性的标准数据对象。 
+
+      <P>代码示例：</P><PRE>// 从Web Service（asp.net、java、php等）输出的JSON对象中移除'd'对象
+$('#dg').datagrid({
+    loadFilter: function(data){
+        if (data.d){
+            return data.d;
+        } else {
+            return data;
+        }
+    }
+});
+</PRE></TD>
+    <TD></TD></TR>
+  <TR>
+    <TH>editors</TH>
+    <TD>object</TD>
+    <TD>定义在编辑行的时候使用的编辑器。</TD>
+    <TD>预定义编辑器</TD></TR>
+  <TR>
+    <TH>view</TH>
+    <TD>object</TD>
+    <TD>定义DataGrid的视图。</TD>
+    <TD>默认视图</TD></TR></TBODY></TABLE>
+                         
+                     </div>
+
+                     <div title="列属性">
+                     <table class='iss-form' width="100%">
+                         <TR>
+    <TH><STRONG>属性名称</STRONG></TH>
+    <TH><STRONG>属性值类型</STRONG></TH>
+    <TH><STRONG>描述</STRONG></TH>
+    <TH><STRONG>默认值</STRONG></TH></TR>
+  <TR>
+    <Th>title</Th>
+    <TD>string</TD>
+    <TD>列标题文本。</TD>
+    <TD>undefined</TD></TR>
+  <TR>
+    <Th>field</Th>
+    <TD>string</TD>
+    <TD>列字段名称。</TD>
+    <TD>undefined</TD></TR>
+  <TR>
+    <Th>width</Th>
+    <TD>number</TD>
+    <TD>列的宽度。如果没有定义，宽度将自动扩充以适应其内容。</TD>
+    <TD>undefined</TD></TR>
+  <TR>
+    <Th>rowspan</Th>
+    <TD>number</TD>
+    <TD>指明将占用多少行单元格（合并行）。</TD>
+    <TD>undefined</TD></TR>
+  <TR>
+    <Th>colspan</Th>
+    <TD>number</TD>
+    <TD>指明将占用多少列单元格（合并列）。</TD>
+    <TD>undefined</TD></TR>
+  <TR>
+    <Th>align</Th>
+    <TD>string</TD>
+    <TD>指明如何对齐列数据。可以使用的值有：'left','right','center'。</TD>
+    <TD>undefined</TD></TR>
+  <TR>
+    <Th>halign</Th>
+    <TD>string</TD>
+    <TD>指明如何对齐列标题。可以使用的值有：'left','right','center'。如果没有指定，则按照align属性进行对齐。<BR><STRONG><FONT 
+      color=#ff0000>（该属性自1.3.2版开始可用）</FONT></STRONG> </TD>
+    <TD>undefined</TD></TR>
+  <TR>
+    <Th>sortable</Th>
+    <TD>boolean</TD>
+    <TD>如果为true，则允许列使用排序。</TD>
+    <TD>undefined</TD></TR>
+  <TR>
+    <Th>order</Th>
+    <TD>string</TD>
+    <TD>默认排序数序，只能是'asc'或'desc'。<BR><STRONG><FONT 
+      color=#ff0000>（该属性自1.3.2版开始可用）</FONT></STRONG> </TD>
+    <TD>undefined</TD></TR>
+  <TR>
+    <Th>resizable</Th>
+    <TD>boolean</TD>
+    <TD>如果为true，允许列改变大小。</TD>
+    <TD>undefined</TD></TR>
+  <TR>
+    <Th>fixed</Th>
+    <TD>boolean</TD>
+    <TD>如果为true，在"fitColumns"设置为true的时候阻止其自适应宽度。</TD>
+    <TD>undefined</TD></TR>
+  <TR>
+    <Th>hidden</Th>
+    <TD>boolean</TD>
+    <TD>如果为true，则隐藏列。</TD>
+    <TD>undefined</TD></TR>
+  <TR>
+    <Th>checkbox</Th>
+    <TD>boolean</TD>
+    <TD>如果为true，则显示复选框。该复选框列固定宽度。</TD>
+    <TD>undefined</TD></TR>
+  <TR>
+    <Th>formatter</Th>
+    <TD>function</TD>
+    <TD>单元格formatter(格式化器)函数，带3个参数：<BR>value：字段值。<BR>rowData：行记录数据。<BR>rowIndex:&nbsp;行索引。 
+
+      <P>代码示例：</P><PRE>$('#dg').datagrid({
+    columns:[[
+        {field:'userId',title:'User', width:80,
+            formatter: function(value,row,index){
+                if (row.user){
+                    return row.user.name;
+                } else {
+                    return value;
+                }
+            }
+        }
+    ]]
+});
+</PRE></TD>
+    <TD>undefined</TD></TR>
+  <TR>
+    <Th>styler</Th>
+    <TD>function</TD>
+    <TD>单元格styler(样式)函数，返回如'background:red'这样的自定义单元格样式字符串。该函数带3个参数：<BR>value：字段值。<BR>rowData：行记录数据。<BR>rowIndex:&nbsp;行索引。 
+
+      <P>代码示例：</P><PRE>$('#dg').datagrid({
+    columns:[[
+        {field:'listprice',title:'List Price', width:80, align:'right',
+            styler: function(value,row,index){
+                if (value &lt; 20){
+                    return 'background-color:#ffee00;color:red;';
+                }
+            }
+        }
+    ]]
+});
+</PRE></TD>
+    <TD>undefined</TD></TR>
+  <TR>
+    <Th>sorter</Th>
+    <TD>function</TD>
+    <TD>用来做本地排序的自定义字段排序函数，带2个参数：<BR>a：第一个字段值。<BR>b：第二个字段值。 
+      <P>代码示例：</P><PRE>$('#dg').datagrid({
+    remoteSort: false,
+    columns: [[
+        {field:'date',title:'Date',width:80,sortable:true,align:'center',  
+            sorter:function(a,b){  
+                a = a.split('/');  
+                b = b.split('/');  
+                if (a[2] == b[2]){  
+                    if (a[0] == b[0]){  
+                        return (a[1]&gt;b[1]?1:-1);  
+                    } else {  
+                        return (a[0]&gt;b[0]?1:-1);  
+                    }  
+                } else {  
+                    return (a[2]&gt;b[2]?1:-1);  
+                }  
+            }  
+        }
+    ]]
+});
+</PRE></TD>
+    <TD>undefined</TD></TR>
+  <TR>
+    <Th>editor</Th>
+    <TD>string,object</TD>
+    <TD>指明编辑类型。当字符串指明编辑类型的时候，对象包含2个属性：<BR>type：字符串，该编辑类型可以使用的类型有：text,textarea,checkbox,numberbox,validatebox,datebox,combobox,combotree。<BR>options：对象，object, 
+      该编辑器属性对应于编辑类型。</TD>
+    <TD>undefined</TD></TR></TBODY></TABLE>
+                     </div>
+                 </div>
+                 <div class="iss-tabs mgT10">
+                 <div title="翻页控件-iss.tabs();">
+                  <p class='red'> HTML: 总容器必须以iss-tabs为类名，翻页内容容器title为要显示的标题（页面现在使用的翻页为本控件）</p>
+                        &lt;div class="iss-tabs"&gt;<br />
+                        &lt;div title="第一翻页标签标题" &gt;&lt;/div&gt;<br />
+                         &lt;div title="第二翻页标签标题" &gt;&lt;/div&gt;<br />
+                        &lt;/div&gt; <br />
+                        <p class="red"> JS:</p>
+                        iss-tabs();      
+                 </div>
+
+                 </div>
+
+                 <div class="iss-tabs mgT10">
+                 <div title="各行换色 iss.tableodd('.table,.ul')">
+                    <table width="100%">
+                        <tr>
+                            <td width="450">
+                                 <table class='table' width="400">
+                          <caption style="text-align:left">iss.tableodd(".table");</caption>
+                          <thead>
+                              <tr>
+                                  <th>header</th>
+                                  <td>头部</td>
+                              </tr>
+                          </thead>
+                          <tbody>
+                              <tr>
+                                  <td>tbody</td>
+                                  <td>行1</td>
+                              </tr>
+                              <tr>
+                                  <td>tbody</td>
+                                  <td>行2</td>
+                              </tr>
+                              <tr>
+                                  <td>tbody</td>
+                                  <td>行3</td>
+                              </tr>
+                              <tr>
+                                  <td>tbody</td>
+                                  <td>行4</td>
+                              </tr>
+                          </tbody>
+                      </table>
+
+                            </td>
+                            <td valign="top">
+                                iss.tableodd(".ul");
+                                <ul class="ul">
+                                <li>li--1</li>
+                                <li>li--2</li>
+                                <li>li--3</li>
+                                <li>li--4</li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                     
+                 </div>
+                 <div title="js代码">
+                     隔行变色，要求table必须含有tbody,隔行变色的为参数的子元素和tbale的tbody里的tr元素 <br />
+                     1、iss.tableodd(".table,.ul") ------------多个需要使用逗号分隔<br />
+                     2、iss.tableodd("1")
+                 </div>
+             </div>
+                 <script  type="text/javascript" >
+                    iss.tableodd(".table");
+                    iss.tableodd(".ul");
+                 </script>
+                 <div class="iss-tabs mgT10">
+                     <div title="倒计时">
+                         <p>距2014年12月15还有：
+                             <span class="issd red">00</span>天
+                             <span class="issh red">00</span>时
+                             <span class="issm red">00</span>分
+                             <span class="isss red">00</span>秒
+                         </p>
+                     </div>
+                     <div title="HTML代码">
+                        <pre>
+                         &lt;p&gt;距2014年12月15还有：
+                             &lt;span class="issd red"&gt;00&lt;/span&gt;天
+                             &lt;span class="issh red"&gt;00&lt;/span&gt;时
+                             &lt;span class="issm red"&gt;00&lt;/span&gt;分
+                             &lt;span class="isss red"&gt;00&lt;/span&gt;秒
+                         &lt;/p&gt;
+                     </pre>
+                     </div>
+                     <div title="JS代码">
+                        <pre>
+                         iss.setTime({ 
+                        "time": "2014/1/15 17:49:32-2014/8/15 18:00:32", <span class="gay">---结束时间-开始时间</span>
+                         "day": ".issd", <span class="gay">---显示天数类名称</span>
+                         "hour": ".issh", <span class="gay">---显示小时类名称</span>
+                         "minute": ".issm", <span class="gay">---显示分类名称</span>
+                         "second": ".isss" <span class="gay">---显示秒类名称</span>
+                     });
+                 </pre>
+                     </div>
+                 </div>
+                 <script>
+
+                    iss.setTime({ 
+                        "time": "2014/12/15 17:49:32-2014/10/15 18:00:32",
+                         "day": ".issd", 
+                         "hour": ".issh", 
+                         "minute": ".issm", 
+                         "second": ".isss" 
+                     });
+                 </script>
+                 <div class="iss-tabs mgT10">
+                     <div title="数据存储">
+                     <pre>
+                         设置数据：iss.data("aa","cc");
+                         获取数据：iss.data("aa");
+                     </pre>
+                     </div>
+                 </div>
+                 <div class="iss-tabs mgT10">
+                     <div title="滚动图">
+                         <div class="iss-unslider" style="height:350px; overflow:hidden">
+                            <ul>
+                                <li title="tests">
+                                <a href="#" target="_blank">
+                                <img width="100%" height="300" title="test" src="/images/demo.jpg" />
+                                <p style="font-size:12px">公司董事长王文学,公司党委书记常则民与优秀党员合影留念</p>
+                                </a>
+                                </li>
+                                <li>
+                                <a href="#" target="_blank">
+                                <img width="100%" height="300" src="/images/demo.jpg" />
+                                <p style="font-size:12px">华夏幸福基业股份有限公司2014年TOPK半年会召开</p>
+                                </a>
+                                </li>
+      
+                            </ul>
+</div>
+
+                     </div>
+                     <div title="HTML代码">
+                       <pre>
+                           &lt;div class="iss-unslider" style="height:350px; overflow:hidden"&gt;
+                            &lt;ul&gt;
+                                &lt;li title="tests"&gt;
+                                &lt;a href="#" target="_blank"&gt;
+                                &lt;img width="100%" height="300" title="test" src="/images/demo.jpg" /&gt;
+                                &lt;p style="font-size:12px"&gt;公司董事长王文学,公司党委书记常则民与优秀党员合影留念&lt;/p&gt;
+                                &lt;/a&gt;
+                                &lt;/li&gt;
+                                &lt;li&gt;
+                                &lt;a href="#" target="_blank"&gt;
+                                &lt;img width="100%" height="300" src="/images/demo.jpg" /&gt;
+                                &lt;p style="font-size:12px"&gt;华夏幸福基业股份有限公司2014年TOPK半年会召开&lt;/p&gt;
+                                &lt;/a&gt;
+                                &lt;/li&gt;
+      
+                            &lt;/ul&gt;
+&lt;/div&gt;
+                       </pre>
+                     </div>
+                     <div title="JS代码">
+                         <pre>
+                             iss.unslider({
+        speed: 500,               //  The speed to animate each slide (in milliseconds)
+        delay: 3000,              //  The delay between slide animations (in milliseconds)
+        complete: function () { },  //图片滑动动作结束后执行会掉
+        keys: true,               //  Enable keyboard (left, right) arrow shortcuts
+        dots: true,               //  Display dot navigation
+        fluid: false              //  Support responsive design. May break non-responsive designs
+    });
+
+                         </pre>
+                     </div>
+
+                     </div>
+                     <script  type="text/javascript" >
+                         iss.unslider({
+        speed: 500,               //  The speed to animate each slide (in milliseconds)
+        delay: 3000,              //  The delay between slide animations (in milliseconds)
+        complete: function () { },  //图片滑动动作结束后执行会掉
+        keys: true,               //  Enable keyboard (left, right) arrow shortcuts
+        dots: true,               //  Display dot navigation
+        fluid: false              //  Support responsive design. May break non-responsive designs
+    });
+
+                     </script>
+    <div class="iss-tabs mgT10">
+        <div title="自定义树形数据">
+            <div class="iss-formTable"></div>
+        </div>
+        <div title="HTML代码">
+            &lt;div class="iss-formTable"&gt;&lt;/div&gt;
+        </div>
+        <div title="JS代码">
+            <pre>
+               JS: iss.formTable(json);
+               JSON:
+               {    "Data": {
+                "MaxLevel": 3,
+                "RowCount": 60,
+                "CurrentStep": 0,
+                "Option": [{
+                    "ChName": "单位",
+                    "Type": "property",
+                    "EnName": "Unit"
+                }, {
+                    "ChName": "赋分值",
+                    "Type": "property",
+                    "EnName": "Score"
+                }, {
+                    "ChName": "一下",
+                    "Type": "data",
+                    "EnName": "1-1"
+                }, {
+                    "ChName": "一上",
+                    "Type": "data",
+                    "EnName": "1-2"
+                }, {
+                    "ChName": "二下",
+                    "Type": "data",
+                    "EnName": "2-1"
+                }, {
+                    "ChName": "二上",
+                    "Type": "data",
+                    "EnName": "2-2"
+                }, {
+                    "ChName": "描述",
+                    "Type": "property",
+                    "EnName": "Desc"
+                }],
+                "Subject": [{
+                    "Level": 1,
+                    "ID": "0bb709b2d4a24b7a8cab5ea1bb68ffe6",
+                    "Name": "财务类",
+                    "Unit": "",
+                    "Score": null,
+                    "Desc": "",
+                    "Data": [null, null, null, null],
+                    "Children": [{
+                        "Level": 2,
+                        "ID": "55786b4e51a1456cb492ad3fb6f3f694",
+                        "Name": "规模类",
+                        "Unit": "",
+                        "Score": null,
+                        "Desc": "",
+                        "Data": [null, null, null, null],
+                        "Children": [{
+                            "Level": 3,
+                            "ID": "796357dd0ddc46edb515fd4b57bfea0a",
+                            "Name": "回款额",
+                            "Unit": "亿元",
+                            "Score": 10,
+                            "Desc": "",
+                            "Data": [null, null, null, null],
+                            "Children": []
+                        }]
+                    }]
+                }]
+            },
+            "Success": true,
+            "ExcelSuccessList": null,
+            "Msg": null
+        };
+            </pre>
+            
+        </div>
+    </div>
+    <script>
+        var json = {    "Data": {
+                "MaxLevel": 3,
+                "RowCount": 60,
+                "CurrentStep": 0,
+                "Option": [{
+                    "ChName": "单位",
+                    "Type": "property",
+                    "EnName": "Unit"
+                }, {
+                    "ChName": "赋分值",
+                    "Type": "property",
+                    "EnName": "Score"
+                }, {
+                    "ChName": "一下",
+                    "Type": "data",
+                    "EnName": "1-1"
+                }, {
+                    "ChName": "一上",
+                    "Type": "data",
+                    "EnName": "1-2"
+                }, {
+                    "ChName": "二下",
+                    "Type": "data",
+                    "EnName": "2-1"
+                }, {
+                    "ChName": "二上",
+                    "Type": "data",
+                    "EnName": "2-2"
+                }, {
+                    "ChName": "描述",
+                    "Type": "property",
+                    "EnName": "Desc"
+                }],
+                "Subject": [{
+                    "Level": 1,
+                    "ID": "0bb709b2d4a24b7a8cab5ea1bb68ffe6",
+                    "Name": "财务类",
+                    "Unit": "",
+                    "Score": null,
+                    "Desc": "",
+                    "Data": [null, null, null, null],
+                    "Children": [{
+                        "Level": 2,
+                        "ID": "55786b4e51a1456cb492ad3fb6f3f694",
+                        "Name": "规模类",
+                        "Unit": "",
+                        "Score": null,
+                        "Desc": "",
+                        "Data": [null, null, null, null],
+                        "Children": [{
+                            "Level": 3,
+                            "ID": "796357dd0ddc46edb515fd4b57bfea0a",
+                            "Name": "回款额",
+                            "Unit": "亿元",
+                            "Score": 10,
+                            "Desc": "",
+                            "Data": [null, null, null, null],
+                            "Children": []
+                        }]
+                    }]
+                }]
+            },
+            "Success": true,
+            "ExcelSuccessList": null,
+            "Msg": null
+        };
+        iss.formTable(json)
+    </script>
+    <div class="iss-tabs mgT10">
+        <div title="最小高度">
+            <div class="J_height" style="border:#c00 solid 1px">
+              <pre>
+                最小高度设置：
+                iss.minheight(".J_height",100);
+              
+            </pre>
+            </div>
+
+        </div>
+         <div title="iframe高度自适应">
+            iss.autoIframeHeight()
+        </div>
+       
+    </div>
+    <script>
+        iss.minheight(".J_height",100);
+    </script>
+    <div class="iss-tabs mgT10">
+        <div title="判断浏览器模式（怪异模式和正常模式）">iss.compat()</div>
+    </div>
+    <div class="iss-tabs mgT10">
+        <div title="日期格式">
+       <pre>
+       代码：
+        (new Date()).Format("yyyy-MM-dd hh:mm:ss.S") ==> 2006-07-02 08:09:04.423 
+        (new Date()).Format("yyyy-M-d h:m:s.S")      ==> 2006-7-2 8:9:4.18 
+        显示：
+        <span id="formatDate"></span> 
+        </pre>   
+          
+        </div>
+        <div title="文字替换">
+            <pre>
+                 代码：
+                cc.replaceAll("ccc","xxx")
+                效果：
+                替换ccc为xxx
+                <span id="J_String">替换ccc为xxx</span>
+               
+            </pre>
+        </div>
+    </div>
+    <script>
+        var tt =(new Date()).Format("yyyy-MM-dd hh:mm:ss.S");
+        $("#formatDate").html(tt);
+        var cc = "替换ccc为xxx";
+        $("#J_String").html(cc.replaceAll("ccc","xxx"))
+    </script>
+
+                 <!--------------boxEnd-------------->
+            </div>
+        </div>
+    </div>
+
+    <script src="Scripts/main.js" type="text/javascript"></script>
+    <script type="text/javascript">
+
+    </script>
+
+</body>
+
+</html>

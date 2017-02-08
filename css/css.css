@@ -1,0 +1,97 @@
+
+/*TOPK独立使用，可通用配置*/
+/*头部*/
+.wap{  position: relative;top:0;left:0; height:100%}
+.wap .head{ background: url(../images/top_b.jpg) repeat-x left bottom; position: relative;top:0;left:0; z-index:11;}
+.wap .head .banner{ background: url(../images/banner.jpg) no-repeat right top; height:140px}
+.wap .logo{ background:url(../images/logo.png) no-repeat left top;height: 140px;width: 315px;margin-left: /*30px*/10px; }
+.wap .head .wap_nav{padding-left:30px; background:url(../images/nav_b.jpg) repeat-x; height:37px/*44px*/;position: relative;top:0;left:0}
+.wap .head .wap_nav .nav_r{ color:#fff; font-size:14px; height:36px; line-height:36px; float:right; padding-right:30px; }
+.wap .head .wap_nav .nav_r a{ color:#fff; font-size:14px;}
+.wap .head .wap_nav .nav_r a:hover{ color:#fff000; }
+/*中心部分*/
+.wap .content{ margin:0 auto; clear: both;}
+/*底部*/
+.wap .foot{background:#c8000b; padding:7px 0px; color:#fff;font-size:12px; overflow: hidden; }
+.wap .foot span{ margin:0 40px}
+
+/* 中心内容 */
+.wap .content{ margin:10px; z-index:10;min-height:100%; max-height:auto; margin:10px auto}
+.wap .content>div.blockleft,
+.wap .content>div.blockright,
+.wap .content>div.block3left,
+.wap .content>div.block3right,
+.wap .content>div.block4left,
+.wap .content>div.block4right,
+.wap .content>div.block5left,
+.wap .content>div.block5right,
+.wap .content>div.block6left,
+.wap .content>div.block6right,
+{ float:left; min-height:100px;}
+.wap .content div.box,div.box{ padding:10px; }
+/*50%*/
+.wap .content div.blockleft,.wap .content .blockright{ width:50%; padding:0 !important; margin:0 !important; }
+/*左侧300px定髋*/
+.wap .content div.block3left{ margin-right:312px; background:#fff;border:#d4d4d4 solid 1px;}
+.wap .content div.block3right{ width:300px; float:right; background:#fff;border:#d4d4d4 solid 1px; }
+/*左侧400px定髋*/
+.wap .content div.block4left{  margin-right:420px;}
+.wap .content div.block4right{ width:400px; float:right;background:#fafafa;border:#d4d4d4 solid 1px;}
+/*左侧500px定髋*/
+.wap .content div.block5left{  margin-right:512px; background:#fff;border:#d4d4d4 solid 1px;}
+.wap .content div.block5right{ float: right;width:500px;background:#fff;border:#d4d4d4 solid 1px;}
+/*左侧600px定髋*/
+.wap .content div.block6left{ margin-right:612px;background:#fff;border:#d4d4d4 solid 1px;}
+.wap .content div.block6right{ width:600px; float:right;background:#fff;border:#d4d4d4 solid 1px;}
+
+/*表格*/
+.table{ table-layout: fixed; border-collapse:collapse;}
+.table th,.table td{ border:#cdcdcd solid 1px; padding:0 5px;}
+.table thead tr{ background:#eaeaea; font-size:14px; text-align: center;}
+.table thead tr th,.table thead tr td{ height:35px;}
+.table tbody tr th,.table tbody tr td{ font-size:12px; height:30px}
+/*头部*/
+
+/*独立页面 首页一上二下等进度*/
+.wap .page_head{ border-bottom:#c8000b solid 5px; padding:30px 20px 10px 20px; background:rgb(244, 244, 244)}
+.wap .page_head .page_head_title{ text-align: right; font-size:20px}
+.wap .page_head .page_head_title i{ font-style: normal; display: inline-block; +zoom:1; +display: inline; width:40px; text-align: center; color:#c8000b}
+.iss-flowPath{ padding:30px 20px}
+.iss-head-map{ width: 100%; table-layout: fixed;}
+.iss-head-map td{ vertical-align: top; background:url(../images/nav3_4.png) repeat-x left 10px;}
+.iss-head-map th{ width:10px;}
+.iss-head-map .td1{ height: 84px;}
+.iss-head-map td .ihm_u{ float: left; height:84px; background:#fff url(../images/nav3_1.png) no-repeat left top; width: 80px; text-align: center; position: relative;top:0;left:0 }
+.iss-head-map td .ihm_u a{ color:#fff; display: block; line-height:84px}
+.iss-head-map td .ihm_u i{ position: absolute;left:0; font-size: 14px; font-style: normal; width:90px; text-align: center; font-weight: bold; word-spacing: normal;word-wrap: break-word; word-break: normal;}
+.iss-head-map td .ihm_f{ background: url(../images/nav3_5.png) no-repeat center 10px; height:80px}
+.iss-head-map .td3 .ihm_u i,.iss-head-map .td5 .ihm_u i{ top:-20px;}
+.iss-head-map .td2 .ihm_u i,.iss-head-map .td4 .ihm_u i{bottom:-20px; }
+.iss-head-map .td3 .ihm_u,.iss-head-map .td5 .ihm_u{ background:#fff url(../images/nav3_1.png) no-repeat right top;top:0;}
+.iss-head-map td .ihm_f{ margin-left:80px}
+.iss-head-map .ihm_u_start{  height:42px; padding:0 20px 0 10px; line-height:42px; text-align: center;width:100px; margin-top:28px}
+.iss-head-map .ihm_u_start a{ color:#fff; display:none;}
+.iss-head-map .ihm_end{ background: url(../images/nav3_2.png) no-repeat left -1px; height: 80px}
+.iss-head-map td .ihm_u_start{ background: url(../images/nav3_3.png) no-repeat left bottom}
+.iss-head-map td .ihm_u_start a{ display:inline; }
+.iss-head-map td.on .ihm_u_start{background:url(../images/nav3_3.png) no-repeat left top;}
+.iss-head-map td.on .ihm_u_start a,.iss-head-map td a.on{ display: none}
+.iss-head-map td.on .ihm_u_start a.on{ display: inline;}
+/*表格*/
+.iss-table{ border-collapse: collapse; table-layout: fixed;}
+.iss-table tr.Ai th,.iss-table tr.Ai td{ height:0;border-width:0; background:none}
+.iss-table tr th ,.iss-table tr td{ border:#ccc solid 1px; padding:2px; font-size:14px}
+.iss-table thead tr th{ text-align: center; height:30px; background: #efefef}
+.table_01 .Ai td,.table_01 .Ai th{ border:none; height:0;  }
+/* 导航 */
+.breadcrumb{ padding:5px 10px 5px /*10px*/48px; font-size: 12px; }
+.breadcrumb { background:#e6e6e6; border-bottom:#ccc solid 1px; border-top:#ccc solid 1px; margin-bottom:0px; /*margin-top:-10px*/ background:#e6e6e6 url(../images/home.png) no-repeat 22px center ;}
+.breadcrumb a { color:#c8000b}
+
+/**/
+.new-icon { overflow:hidden;font-size:0; text-align: center;}
+.new-icon li{margin:0px 10px; width:100px; height:100px;border:#ccc solid 1px; border-radius:10px; display:inline-block; +display:inline;+zoom:1; position:relative;top:0;left:0;font-size:14px;line-height:150px;overflow:hidden; cursor:pointer}
+.new-icon li p{ position:absolute;top:0;left:0; height:100px; width:100px; line-height:100px; text-align:center; background:#333; display:none; color:#fff; }
+.new-icon li.icon1{ background:#fff url(../images/icon_16.jpg) no-repeat center 10px;}
+.new-icon li.icon2{ background:#fff url(../images/icon_18.jpg) no-repeat center 10px;}
+.new-icon li.icon3{ background:#fff url(../images/icon_20.jpg) no-repeat center 10px;}

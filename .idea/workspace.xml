@@ -1,0 +1,1228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73f2b53f-b672-4349-b062-647dc6b6ab73" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/accordion_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/calendar_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/combo_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/datagrid_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/datebox_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/layout_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/linkbutton_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/menu_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/messager_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/pagination_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/panel_tools.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/searchbox_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/slider_handle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/spinner_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/tabs_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/tree_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/validatebox_warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Scripts/source/uploadify.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/001_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/002.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/back_alt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bar_dn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bar_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/blank_badge_green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/blank_badge_red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/but_dn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/but_up.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/button01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/button02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/button03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/button05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/combo_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/demo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dialog-sprite-v1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/forward_alt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/history.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/i_dn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/i_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon_18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon_20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/inp_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/l1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/l2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/l_l.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/l_m.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/l_r.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loading-32-32.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loading5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/login_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/login_but.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/login_l.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/login_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/nav3_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/nav3_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/nav3_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/nav3_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/nav3_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/nav_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/nav_b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/nr_111.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/nr_222.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/nr_222_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/nr_333.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/nr_333_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/nr_444.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ok.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/preview.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/progressBar_m.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/r1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/r2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sj_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small_dn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small_up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/spinner_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/stop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/tab01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/tab02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/temp_download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/temp_upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/tit_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/tit_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/tit_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/title_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/title_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/title_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/title_04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/title_05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/top_b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/u11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/u1789.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/u3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/u7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/u79.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/u87.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/uploadify-cancel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/x_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/未标题-1.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/ansidiff/examples.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/tests/lib/jasmine_favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/css.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/easyui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/iss.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/uploadify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Scripts/JSON.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Scripts/Zepto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Scripts/jquery-1.11.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Scripts/jquery.easyui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Scripts/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Scripts/source/iss-dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Scripts/source/iss-formTable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Scripts/source/iss-table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Scripts/source/iss-unslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Scripts/source/iss-uploadify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Scripts/source/iss-validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Scripts/source/iss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/LICENSE-MIT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/.bin/compile-modules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/.bin/compile-modules.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/.bin/es6-transpiler" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/.bin/es6-transpiler.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/TRANSITION.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/bin/compile-modules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/dist/es6-module-transpiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/example/bool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/example/boolean_double.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/example/boolean_single.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/example/default_hash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/example/default_singles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/example/divide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/example/line_count.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/example/line_count_options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/example/line_count_wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/example/nonopt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/example/reflect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/example/short.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/example/string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/example/usage-options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/example/xup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/node_modules/wordwrap/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/node_modules/wordwrap/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/node_modules/wordwrap/example/center.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/node_modules/wordwrap/example/meat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/node_modules/wordwrap/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/node_modules/wordwrap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/node_modules/wordwrap/test/break.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/node_modules/wordwrap/test/idleness.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/node_modules/wordwrap/test/wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/readme.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/test/_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/test/_/argv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/test/_/bin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/optimist/test/usage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/through/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/through/LICENSE.APACHE2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/through/LICENSE.MIT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/through/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/through/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/through/readme.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/through/test/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/through/test/auto-destroy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/through/test/buffering.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/through/test/end.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/node_modules/through/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-module-transpiler/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/TODO.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/build.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/clean.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/es6-transpiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/es6toes5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/es6toes5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/jshint_globals/vars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/lib/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/lib/esprima_harmony.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/lib/node_inject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/lib/regjsparser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/lib/scope.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/lib/stats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/lib/tmpl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/polyfills/RegExp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/polyfills/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/polyfills/test/specs/RegExp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/polyfills/test/specs/unescapeUnicode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/polyfills/test/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/run-tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/run-tests.es6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/run-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/RegExp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/arrayComprehension.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/classes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/core/comments.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/core/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/core/standardVars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/destructuring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/extensions/classes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/forOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/functions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/generatorComprehension.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/letConst.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/loopClosures.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/numericLiteral.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/objectLiteral.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/optimiser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/polyfills.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/quasiLiterals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/spread.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/typesDetection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/es5/transpiler/unicode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/polyfills.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/polyfills_test.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/prepare.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/build/test.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/es6-transpiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/es6toes5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/es6toes5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/jshint_globals/LICENSE.jshint" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/jshint_globals/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/jshint_globals/vars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/lib/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/lib/esprima_harmony.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/lib/node_inject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/lib/regjsparser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/lib/scope.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/lib/stats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/lib/tmpl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/.bin/jsesc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/.bin/jsesc.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/.bin/string-alter" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/.bin/string-alter.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/ansidiff/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/ansidiff/CHANGES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/ansidiff/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/ansidiff/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/ansidiff/lib/ansidiff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/ansidiff/node_modules/diff/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/ansidiff/node_modules/diff/diff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/ansidiff/node_modules/diff/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/ansidiff/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/ansidiff/test/ansidiff.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/astquery/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/astquery/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/astquery/build/es5/ASTQuery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/astquery/build/es5/TokenList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/astquery/build/es5/keys/es5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/astquery/build/es5/keys/es6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/astquery/build/es5/keys/regexp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/astquery/build/es5/matchSelector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/astquery/build/es5/parseSelector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/astquery/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/.jscs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/CHANGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/CONTRIBUTORS.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/es5-sham.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/es5-sham.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/es5-sham.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/es5-shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/es5-shim.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/es5-shim.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/shims.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/tests/helpers/h-matchers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/tests/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/tests/index.min.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/tests/lib/jasmine-html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/tests/lib/jasmine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/tests/lib/jasmine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/tests/lib/json2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/tests/native.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/tests/spec/helpers-jasmine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/tests/spec/s-array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/tests/spec/s-date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/tests/spec/s-function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/tests/spec/s-global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/tests/spec/s-number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/tests/spec/s-object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/es5-shim/tests/spec/s-string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/jsesc/LICENSE-MIT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/jsesc/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/jsesc/bin/jsesc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/jsesc/jsesc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/jsesc/man/jsesc.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/jsesc/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/regenerate/LICENSE-MIT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/regenerate/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/regenerate/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/regenerate/regenerate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/simple-fmt/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/simple-fmt/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/simple-fmt/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/simple-fmt/simple-fmt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/simple-fmt/test/simple-fmt-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/simple-is/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/simple-is/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/simple-is/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/simple-is/simple-is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/simple-is/test/simple-is-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/string-alter/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/string-alter/build/es5/StringAlter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/string-alter/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/stringmap/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/stringmap/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/stringmap/examples.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/stringmap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/stringmap/stringmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/stringset/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/stringset/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/stringset/examples.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/stringset/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/node_modules/stringset/stringset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/other/async-await.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/other/let-and-file-scope.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/other/not-supported-by-esprima.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/other/todo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/other/v8-bug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/other/v8-for-in-scope-2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/other/v8-for-in-scope.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/polyfills/RegExp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/polyfills/String/_RE_methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/polyfills/String/fromCodePoint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/polyfills/lib/rangeRegenerate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/polyfills/lib/unescapeUnicode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/polyfills/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/polyfills/test/specs/RegExp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/polyfills/test/specs/unescapeUnicode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/polyfills/test/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/run-tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/run-tests.es6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/run-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/a-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/a.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/browser_environment-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/browser_environment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/catch-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/catch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/catch2-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/catch2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/comment-options-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/comment-options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/const-assign-stderr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/const-assign.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/duplicate-var-stderr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/duplicate-var.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/early-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/early.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-QuasiLiterals-mixin-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-QuasiLiterals-mixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-QuasiLiterals-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-QuasiLiterals-tagged-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-QuasiLiterals-tagged.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-QuasiLiterals-tagged2-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-QuasiLiterals-tagged2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-QuasiLiterals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-QuasiLiterals2-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-QuasiLiterals2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-RegExp-uflag-negative-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-RegExp-uflag-negative.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-RegExp-uflag-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-RegExp-uflag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-RegExp-yflag-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-RegExp-yflag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-Unicode-cpe-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-Unicode-cpe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-arrayComprehensions-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-arrayComprehensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-arrowFunctions-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-arrowFunctions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-arrowFunctions2-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-arrowFunctions2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-arrowFunctions3-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-arrowFunctions3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-arrowFunctions4-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-arrowFunctions4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-cant-void-temporary-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-cant-void-temporary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes-composite-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes-composite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes-computedProperties-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes-computedProperties.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes-expression-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes-expression.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes-get-set-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes-get-set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes-strict-mode-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes-strict-mode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes-super-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes-super.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes2-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes3-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes4-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes5-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes6-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes7-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-classes7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-computedProperties-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-computedProperties-quasi-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-computedProperties-quasi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-computedProperties.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-computedProperties2-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-computedProperties2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring-and-let-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring-and-let.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring-and-rest-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring-and-rest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring-computed-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring-computed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring-computed2-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring-computed2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring-computed3-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring-computed3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring-default-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring-default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring-empty-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring-empty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring-linebreaks-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring-linebreaks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring2-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring3-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring4-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring5-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring6-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-destructuring6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-forOf-mixid-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-forOf-mixid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-forOf-no-iterators-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-forOf-no-iterators.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-forOf-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-forOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-forOf2-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-forOf2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-forOf3-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-forOf3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-forbidden-destructuring-stderr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-forbidden-destructuring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-forbidden-function-default-stderr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-forbidden-function-default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-function-default-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-function-default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-function-default2-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-function-default2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-function-destructuring-and-default-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-function-destructuring-and-default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-function-destructuring-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-function-destructuring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-generatorComprehension-forOf-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-generatorComprehension-forOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-generatorComprehension-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-generatorComprehension.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-generatorComprehension2-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-generatorComprehension2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-loop-closures-destructuring-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-loop-closures-destructuring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-loop-closures-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-loop-closures-yeild-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-loop-closures-yeild.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-loop-closures.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-loop-closures2-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-loop-closures2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-numericLiteral-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-numericLiteral.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-objectLiteral-__proto__-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-objectLiteral-__proto__.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-objectLiteral-destructuring-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-objectLiteral-destructuring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-objectLiteral-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-objectLiteral.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-spread-array-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-spread-array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-spread-call-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-spread-call.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-spread-new-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-spread-new.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-spread-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-spread-semicolon-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-spread-semicolon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-spread-sparse-array-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-spread-sparse-array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-spread.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-spread2-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-spread2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-test1-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-test1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-test2-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-test2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-test3-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/es6-test3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/global-name-exists-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/global-name-exists.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/jshint-globals-err-stderr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/jshint-globals-err.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/jshint-globals-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/jshint-globals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/let-already-declared-stderr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/let-already-declared.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/let-loop-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/let-loop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/letletlet-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/letletlet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/rename-array-index-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/rename-array-index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/rename-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/rename.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/reset-noncaptured-variables-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/reset-noncaptured-variables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/use-before-definition-stderr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/use-before-definition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/used-in-same-declaration-stderr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/used-in-same-declaration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/var-inside-let-stderr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/var-inside-let.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/var-let-same-scope-stderr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/var-let-same-scope.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/variable-names-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/variable-names.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/xdollarzero-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/tests/xdollarzero.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/RegExp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/arrayComprehension.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/classes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/core/comments.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/core/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/core/standardVars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/destructuring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/extensions/classes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/forOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/functions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/generatorComprehension.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/letConst.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/loopClosures.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/numericLiteral.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/objectLiteral.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/optimiser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/polyfills.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/quasiLiterals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/spread.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/typesDetection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/es6-transpiler/transpiler/unicode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/extend/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/extend/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/extend/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/extend/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/extend/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/.bin/json5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/.bin/json5.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/big.js/LICENCE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/big.js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/big.js/big.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/big.js/big.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/big.js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/emojis-list/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/emojis-list/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/emojis-list/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/emojis-list/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/emojis-list/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/json5/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/json5/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/json5/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/json5/lib/cli.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/json5/lib/json5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/json5/lib/require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/json5/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/object-assign/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/object-assign/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/object-assign/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/node_modules/object-assign/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/node_modules/loader-utils/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-loader/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/.eslintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/.jscs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/es6-sham.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/es6-sham.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/es6-sham.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/es6-shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/es6-shim.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/es6-shim.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/full.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/min.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test-sham/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test-sham/function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test-sham/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test-sham/set-prototype-of.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/browser-onload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/browser-setup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/math.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/mocha.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/native.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/promise/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/promise/evil-promises.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/promise/promises-aplus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/promise/promises-es6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/promise/race.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/promise/reject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/promise/resolve.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/promise/simple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/promise/subclass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/reflect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/regexp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/test_helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/worker-runner.workerjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/es6-shim/test/worker-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/.bin/uglifyjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/.bin/uglifyjs.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/.bin/json5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/.bin/json5.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/big.js/LICENCE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/big.js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/big.js/big.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/big.js/big.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/big.js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/emojis-list/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/emojis-list/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/emojis-list/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/emojis-list/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/emojis-list/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/json5/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/json5/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/json5/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/json5/lib/cli.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/json5/lib/json5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/json5/lib/require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/json5/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/object-assign/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/object-assign/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/object-assign/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/node_modules/object-assign/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/loader-utils/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/source-map/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/source-map/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/source-map/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/source-map/dist/source-map.debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/source-map/dist/source-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/source-map/dist/source-map.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/source-map/dist/source-map.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/source-map/lib/array-set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/source-map/lib/base64-vlq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/source-map/lib/base64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/source-map/lib/binary-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/source-map/lib/mapping-list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/source-map/lib/quick-sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/source-map/lib/source-map-consumer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/source-map/lib/source-map-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/source-map/lib/source-node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/source-map/lib/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/source-map/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/source-map/source-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/bin/extract-props.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/bin/uglifyjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/lib/ast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/lib/compress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/lib/mozilla-ast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/lib/output.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/lib/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/lib/propmangle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/lib/scope.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/lib/sourcemap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/lib/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/async/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/async/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/async/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/async/lib/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/async/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/uglify-to-browserify/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/uglify-to-browserify/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/uglify-to-browserify/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/uglify-to-browserify/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/uglify-to-browserify/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/uglify-to-browserify/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/uglify-to-browserify/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/completion.sh.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/lib/completion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/lib/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/lib/usage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/lib/validation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/camelcase/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/camelcase/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/camelcase/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/.coveralls.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/.zuul.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/longest/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/longest/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/longest/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/longest/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/repeat-string/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/repeat-string/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/repeat-string/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/lazy-cache/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/lazy-cache/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/lazy-cache/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/lazy-cache/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/.zuul.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/longest/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/longest/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/longest/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/longest/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/repeat-string/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/repeat-string/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/repeat-string/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/wordwrap/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/wordwrap/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/wordwrap/example/center.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/wordwrap/example/meat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/wordwrap/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/wordwrap/test/break.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/wordwrap/test/idleness.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/wordwrap/test/wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/test/cliui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/decamelize/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/decamelize/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/decamelize/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/decamelize/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/window-size/LICENSE-MIT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/window-size/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/window-size/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/node_modules/window-size/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/node_modules/yargs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/tools/domprops.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/tools/exports.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/tools/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/node_modules/uglify-js/tools/props.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/node_modules/uglify-loader/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="wanda_xianchangjiancha_pc.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="wanda_xianchangjiancha_pc" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30690">
+              <caret line="1395" column="0" selection-start-line="1395" selection-start-column="0" selection-end-line="1395" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#code#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#code#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#code#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#0;n#tr#10;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#TD#1;n#TR#23;n#TBODY#0;n#TABLE#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#SPAN#0;n#TD#1;n#TR#23;n#TBODY#0;n#TABLE#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#caption#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#6;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#9;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#9;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#9;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#11;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/webpack.config.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wanda_xianchangjiancha_pc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wanda_xianchangjiancha_pc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wanda_xianchangjiancha_pc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="D:\NODE\node.exe" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\wanda_xianchangjiancha_pc\dist" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73f2b53f-b672-4349-b062-647dc6b6ab73" name="Default" comment="" />
+      <created>1486373607843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1486373607843</updated>
+      <workItem from="1486373609248" duration="728000" />
+      <workItem from="1486433097671" duration="11957000" />
+      <workItem from="1486519488033" duration="3711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16396000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1370" height="754" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24024025" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45622894" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3989899" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5218855" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24032739" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3989899" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#code#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#code#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#code#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#10;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#TD#1;n#TR#23;n#TBODY#0;n#TABLE#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#SPAN#0;n#TD#1;n#TR#23;n#TBODY#0;n#TABLE#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#caption#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#6;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#9;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#9;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#9;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#11;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30690">
+          <caret line="1395" column="0" selection-start-line="1395" selection-start-column="0" selection-end-line="1395" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#code#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#code#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#code#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#10;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#TD#1;n#TR#23;n#TBODY#0;n#TABLE#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#SPAN#0;n#TD#1;n#TR#23;n#TBODY#0;n#TABLE#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#caption#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#6;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#9;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#9;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#9;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#11;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
